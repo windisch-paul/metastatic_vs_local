@@ -20,4 +20,4 @@ Each trial is a row in the csv file. For each trial there are the follwing colum
 - __options__: List of labels that the annotator could select
 - **_input_hash**, **_task_hash**, **_view_id**, **config**, **_timestamp**, **_annotator_id**, **_session_id**: Additional columns automatically created by the annotation tool during the annotation process. For detailed documentation see the [prodigy docs](https://prodi.gy/docs/api-components).
 
-The dataset has also been uploaded to [Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.g4f4qrfzn).
+The dataset has also been uploaded to [Dryad](https://doi.org/10.5061/dryad.g4f4qrfzn).
