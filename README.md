@@ -1,5 +1,5 @@
 # Introduction
-This repository contains the data and code associated with the manuscript [Metastatic vs. Localized Disease As Inclusion Criteria That Can Be Automatically Extracted From Randomized Controlled Trials Using Natural Language Processing](https://www.medrxiv.org/content/10.1101/2024.06.17.24309020v1) which is currently available as a preprint while undergoing peer review.
+This repository contains the data and code associated with the manuscript [Metastatic vs. Localized Disease As Inclusion Criteria That Can Be Automatically Extracted From Randomized Controlled Trials Using Natural Language Processing](https://ascopubs.org/doi/10.1200/CCI-24-00150) which has been published in JCO Clinical Cancer Informatics.
 The config file can be used to train a model using the spacy/prodigy packages. 
 
 # Data
